@@ -51,7 +51,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <ncurses.h> // Might have an easier way to display the game board in it, idk
+//#include <ncurses.h> // Might have an easier way to display the game board in it, idk
 
 /*
  * display_board() function: takes the contents of the board and prints them on the screen.
